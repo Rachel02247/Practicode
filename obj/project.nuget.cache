@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1R7YJB2BCI7WJbbiTXAwkbyWbC22E6XDQKGUR2snT5+V/uWsMc06leVQztf38bxTWl2LnFcx38WYjnUf/ZvBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\רחלי\\תכנות ו\\practicode\\practicode1\\pack\\pack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
