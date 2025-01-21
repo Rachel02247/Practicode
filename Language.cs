@@ -10,15 +10,15 @@ namespace pack
     {
         public static Dictionary<string, string> ProgrammingLanguages = new Dictionary<string, string>
         {
-            { ".cs", "C#" },
-            { ".java", "Java" },
-            { ".py", "Python" },
-            { ".cpp", "C++" },
-            { ".js", "JavaScript" },
-            { ".ts", "TypeScript" },
-            { ".html", "HTML" },
-            { ".css", "CSS" },
-            { ".sql", "SQL" }
+            {"C#", ".cs" },
+            { "Java" , ".java"},
+            { "Python" , ".py" },
+            { "C++" , ".cpp" },
+            { "JavaScript" , ".js" },
+            { "TypeScript" , ".ts" },
+            { "HTML" , ".html" },
+            { "CSS" , ".css" },
+            { "SQL" , ".sql" }
         };
     }
 }

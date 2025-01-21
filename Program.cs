@@ -87,7 +87,7 @@ bundleCommand.SetHandler((language, output, note, sort, removeEmptyLines, author
 
         files = FilterDict(directoryPath, files, language);
 
-        var bundleFile = new StreamWriter(output.FullName, append: false);
+        var bundleFile = new StreamWriter(output.FullName, append: false)
 
         if (sort != "alphabet")
             files = files.OrderBy(file => Path.GetExtension(file)).ToList();
@@ -155,7 +155,7 @@ createRspCommand.SetHandler(() =>
             writer.WriteLine($"--{option} {value}");
         }
     }
-    Console.WriteLine($"Response File created successfully. Run it with fib @{rspName}");
+    Console.WriteLine($"Response File created successfully. Run it with pack @{rspName}");
 });
 
 rootCommand.InvokeAsync(args);

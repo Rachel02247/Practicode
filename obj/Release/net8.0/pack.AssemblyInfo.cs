@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c423c848ed44e1e4d7a19bf0e8efbb7425a310e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("pack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

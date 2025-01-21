@@ -28,3 +28,12 @@ C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\bin\R
 C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\bin\Release\net8.0\zh-Hant\System.CommandLine.resources.dll
 C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\obj\Release\net8.0\pack.csproj.AssemblyReference.cache
 C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\obj\Release\net8.0\pack.csproj.CopyComplete
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.AssemblyInfo.cs
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.sourcelink.json
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.dll
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\refint\pack.dll
+C:\Users\USER\Documents\רחלי\תכנות ו\practicode\practicode1\pack\pack\obj\Release\net8.0\pack.pdb
